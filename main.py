@@ -108,7 +108,7 @@ def anaSheet(d,maru,batsu,sankaku=0,niju=0):
     i = profile[0].index('名前')
 
     for f in profile:
-        x = f.pop(i)#井上の部分を排除
+        x = f.pop(i)#その人の部分を削除
         new_profile.append(f)
     """
     new_profile = profile
