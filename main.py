@@ -1,4 +1,5 @@
 #kouphasi
+
 import csv#標準ライブラリーの中にcsvファイルの編集用のモジュールが入っている
 import os,sys
 from tkinter import *
