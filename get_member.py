@@ -1,4 +1,3 @@
-#Kohei Miyoshi
 import csv#標準ライブラリーの中にcsvファイルの編集用のモジュールが入っている
 new_profile = []#一番欲しいデータのリストを作る
 yotei={}
